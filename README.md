@@ -12,9 +12,13 @@ Welcome to my personal cybersecurity learning repository. This repo is a collect
 ## 📁 Repo Structure
 
 /cheatsheets      → Quick reference for tools and techniques
+
 /walkthroughs     → Detailed write-ups of CTF boxes and labs
+
 /oscp-notes       → My roadmap and notes for PEN-200/OSCP
+
 /tools.md         → My favorite tools and when to use them
+
 /methodology.md   → My red teaming workflow
 
 ## 💡 Why This Repo?
