@@ -2,24 +2,19 @@
 
 My personal notes, methodology, and cheatsheets while learning red teaming and preparing for OSCP. Documenting everything I learn from Hack The Box, TryHackMe, OffSec Proving Grounds, and real engagements.
 
-**Stats:** 49+ machines rooted | HTB Top 3% | eCPPT certified | OSCP in progress
+**Stats:** 49+ machines rooted | HTB Top 3% | OSCP · eCPPT certified
 
 ## Structure
 
 ```
 methodology/     - Pentest methodology and attack playbooks
-cheatsheets/     - Quick reference for common tools and techniques
-writeups/        - Links to detailed writeups on heretek.dev
+writeups/        - Detailed writeups (hosted on heretek.dev)
 ```
 
 ## Methodology
 
 - [Penetration Testing Methodology](methodology/pentest_methodology.md) - Full engagement workflow
 - [Active Directory Attack Playbook](methodology/ad_attacks.md) - AD enumeration to domain admin
-
-## Cheatsheets
-
-Coming soon: Nmap, Privilege Escalation, Reverse Shells
 
 ## Writeups
 
@@ -42,4 +37,4 @@ See my pentest toolkit repo: [pentest-toolkit](https://github.com/JeanRA88/pente
 **Jean Romero** (Heretek)
 - Blog: [heretek.dev](https://heretek.dev)
 - LinkedIn: [linkedin.com/in/jean-carlos-romero](https://linkedin.com/in/jean-carlos-romero)
-- Certs: eCPPT | CEH | eJPT | Security+ | OSCP (in progress)
+- Certs: OSCP | eCPPT | CEH | eJPT | Security+
